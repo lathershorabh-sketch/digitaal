@@ -1,0 +1,8 @@
+@import "tailwindcss";
+button {
+  cursor: pointer;
+}
+
+.swiper-navigation-icon {
+  @apply bg-amber-300;
+}
