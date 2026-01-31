@@ -47,7 +47,7 @@ const Clients = () => {
               <p className="text-[18px] pb-3 text-center md:text-start">
                 A Seamless Experience
               </p>
-              <p className="max-w-100 lg:max-w-125 w-full text-center md:text-start">
+              <p className="max-w-100 lg:max-w-125 w-full text-[14px] lg:text-[16px] text-center md:text-start">
                 Our client relationships are built on trust, transparency, and
                 performance. Read how we’ve helped brands like yours scale
                 digitally with confidence.Our client relationships are built on
@@ -75,7 +75,7 @@ const Clients = () => {
               <p className="text-[18px] pb-3 text-center md:text-start">
                 Exceptional Service
               </p>
-              <p className="max-w-100 lg:max-w-125 w-full text-center md:text-start">
+              <p className="max-w-100 lg:max-w-125 w-full text-[14px] lg:text-[16px] text-center md:text-start">
                 Our client relationships are built on trust, transparency, and
                 performance. Read how we’ve helped brands like yours scale
                 digitally with confidence.Our client relationships are built on
@@ -103,7 +103,7 @@ const Clients = () => {
               <p className="text-[18px] pb-3 text-center md:text-start">
                 Beyond Expectations
               </p>
-              <p className="max-w-100 lg:max-w-125 w-full text-center md:text-start">
+              <p className="max-w-100 lg:max-w-125 w-full text-[14px] lg:text-[16px] text-center md:text-start">
                 Visionary Venture went above and beyond all our expectations.
                 Their professionalism, attention to detail, and unwavering
                 dedication were evident from the very start. They guided us
