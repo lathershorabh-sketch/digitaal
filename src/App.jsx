@@ -18,6 +18,7 @@ import Innovation from "./components/Innovation";
 import Branding from "./components/Branding";
 import Clients from "./components/Clients";
 import Subscribe from "./components/Subscribe";
+import Work from "./components/Work";
 
 function App() {
   useEffect(() => {
@@ -45,6 +46,7 @@ function App() {
       <Branding />
       <Clients />
       <Subscribe />
+      <Work />
     </section>
   );
 }
