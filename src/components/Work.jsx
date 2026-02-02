@@ -3,7 +3,7 @@ import React from "react";
 const Work = () => {
   return (
     <>
-      <section className="text-white text-center  font-bold pb-10 lg:pb-28">
+      <section className="relative text-white text-center  font-bold pb-10 lg:pb-28">
         <p className="text-[24px] mb-2 lg:mb-3.5">LET'S COLLABORATE</p>
         <div className="relative">
           <h2 className=" relative max-w-285 text-[24px] sm:text-[36px] md:text-[50px] lg:text-[130px] xl:text-[194px] mx-auto">
@@ -28,6 +28,11 @@ const Work = () => {
             </p>
           </div>
         </div>
+        <img
+          className="hidden 2xl:flex max-w-102 absolute bottom-0 -left-30 w-full h-99 object-contain"
+          src="./src/assets/png/halfball.png"
+          alt="halfball"
+        />
       </section>
     </>
   );
